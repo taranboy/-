@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../1v/style.css">
+    <script src="js.js" defer></script>
+    <script src="https://kit.fontawesome.com/95a02bd20d.js" defer></script>
+</head>
+<body>
+        <div class="container">
+            <section class="gallery">
+
+                <div class="frame frame_bg">
+                    <div class="frame_content">
+                        <h2>Будь целомудрен и в мыслях, и в жизни</h2>
+                    </div>
+                </div>
+
+                <div class="frame  frame_bg">
+                    <div class="frame_content text-right">
+                        <h3>О себе</h3>
+                        <p>Образование: клинический психолог <br>
+                            Окончил МГМСУ (факультет клинической психологии) в 2026 году <br>
+                            Направление: Биопсихосоциальный подход<br>
+                            Красный диплом, лауреат нобелевской премии по изучению гомеопатии и просто хороший собеседник
+                        </p>
+                    </div>
+                    <div class="frame-media frame-media_left" style="background-image: url(../images/photo_2022-10-31_01-34-24.jpg);"></div>
+                </div>
+
+                <div class="frame frame_bg">
+                    <div class="frame_content text-left">
+                        <h3>Вопросы <br>на консультацию:</h3>
+                        <p>- Не знаю, что делать дальше…
+                            <br>
+                            - Хочу разобраться с личной жизнью…
+                            <br>
+                            - Всё надоело, ничего не хочу…
+                            <br>
+                            - Хочу понять, почему…
+                            <br>
+                            - Работа с намерением...
+                            <br>
+                            - Хочу разобрать свои отношения с…
+                            <br>
+                            - Внутренние комплексы и конфликты…
+                            <br>
+                            - Конфликтные отношения на работе…
+                            <br>
+                            - Я боюсь…</p>
+                        
+                    </div>
+                    <div class="frame-media frame-media_right" style="background-image: url(../images/560.jpg);"></div>
+                </div>
+
+                <div class="frame frame_bg">
+                    <ul>
+                        <li>
+                            <a href="https://vk.com/timophey2003">
+                            <i class="fa fa-vk"></i>
+                            <span> - VK</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://t.me/Timach228">
+                            <i class="fa fa-telegram"></i>
+                            <span> - Telegram</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:Timsobra@yandex.ru">
+                            <i class="fa fa-google"></i>
+                            <span> - Почта</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            <i class="fa fa-instagram"></i>
+                            <span> - Instagram</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+                </div>
+</body>
+</html>
